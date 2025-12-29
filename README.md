@@ -18,10 +18,8 @@
 
 # 📊 GitHub Stats:
 <hr />
-<div align="left">
-  ![](https://github-readme-stats.vercel.app/api?username=Targethere&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> 
-  ![](https://nirzak-streak-stats.vercel.app/?user=Targethere&theme=dark&hide_border=false)<br/> 
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Targethere&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="right">
+  <img src="https://streak-stats.demolab.com/?user=Targethere&theme=tokyonight&hide_border=false&v=refresh1" alt="GitHub Streak Stats" />
 </div>
 
 <hr />
