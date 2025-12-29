@@ -19,9 +19,9 @@
 # 📊 GitHub Stats:
 <hr />
 
-<div align="right">
-  <img src="https://streak-stats.demolab.com/?user=Targethere&theme=tokyonight&hide_border=false&v=jan1" alt="GitHub Streak Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Targethere&theme=tokyonight&layout=compact&hide_border=false" alt="Most Used Languages" width="48%" />
+<div align="left">
+  <img src="https://streak-stats.demolab.com/?user=Targethere&theme=tokyonight&hide_border=false" alt="Streak Stats" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Targethere&theme=tokyonight&layout=compact&hide_border=false" alt="Top Languages" width="48%" />
 </div>
 
 ### 🔝 Top Contributed Repo
