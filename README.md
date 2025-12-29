@@ -18,9 +18,7 @@
 
 # 📊 GitHub Stats:
 <hr />
-
-<div align="left">
-  <img src="https://streak-stats.demolab.com/?user=Targethere&theme=tokyonight&hide_border=false" alt="Streak Stats" width="48%" />
+<div align="right">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Targethere&theme=tokyonight&layout=compact&hide_border=false" alt="Top Languages" width="48%" />
 </div>
 
