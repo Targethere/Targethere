@@ -1,7 +1,7 @@
 ## Hi there 👋, This is Sheikh Md Rakibul Hasan!
 
 - 🔭 I’m currently working on mobile programming 
-- 🌱 I’m currently learning full-stack development
+- 🌱 I’m currently learning full-stack mobile development
 - 👯 I’m looking to collaborate on mobile programming
 - 🤔 I’m looking for help with software engineering 
 - 💬 Ask me about problem-solving
